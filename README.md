@@ -19,16 +19,23 @@ The application uses WebSockets (STOMP protocol) to enable low-latency, real-tim
 Backend
 
 Java 17
-Spring Boot
-Spring WebSocket
-Spring Data MongoDB
-MongoDB
-STOMP Protocol
 
+Spring Boot
+
+Spring WebSocket
+
+Spring Data MongoDB
+
+MongoDB
+
+STOMP Protocol
 
 Frontend
 
 React (Vite)
+
 JavaScript (ES6)
+
 Tailwind CSS / Custom CSS
+
 WebSocket Client
